@@ -1,0 +1,6 @@
+@PronounceAPI_HostAddress = http://localhost:5276
+
+GET {{PronounceAPI_HostAddress}}/api/v1/words/
+Accept: application/json
+
+###
